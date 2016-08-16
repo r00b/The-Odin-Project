@@ -1,12 +1,6 @@
 #Rails Blogger
 16 August 2016
 
-A canvas to create images with the cursor, using HTML5, CSS3, and jQuery. Click [here](http://htmlpreview.github.io/?https://github.com/Rsteilberg/The-Odin-Project/blob/master/Etch-A-Sketch/index.html) to view in a browser.
+A simple blogging application created with Ruby on Rails. Click [here]() to view in a browser. The application demonstrates basica usage of the Models, Views, and Controllers (MVC) structure, in addition to routing, migrations, RESTful design, and views (forms, partials, and helpers) within Rails. User authentication through the Sorcery gem has also been implemented.
 
-Models, Views, and Controllers (MVC)
-Data Structures & Relationships
-Routing
-Migrations
-Views with forms, partials, and helpers
-RESTful design
-Adding gems for extra features
+Important note: Before creating any articles, a user must be created at /authors/new. Only authenticated users can create other users or create, edit, or delete content.
