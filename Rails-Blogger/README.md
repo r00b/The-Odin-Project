@@ -1,4 +1,4 @@
-#Rails Blogger
+# Rails Blogger
 16 August 2016
 
 A simple blogging application created with Ruby on Rails. The application demonstrates basic usage of the Models, Views, and Controllers (MVC) structure, in addition to routing, migrations, RESTful design, and views (forms, partials, and helpers) within Rails. User authentication through the Sorcery gem has also been implemented.
